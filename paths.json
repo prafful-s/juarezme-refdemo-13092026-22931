@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/en:/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/en/:/en/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/fr/:/fr/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/fr:/fr",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/es/:/es/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/es:/es",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/ja/:/ja/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/ja:/ja",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/de/:/de/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/de:/de",
-    "/content/696f3e84bf795426d5d1d8e7/configuration:/.helix/config.json",
-    "/content/696f3e84bf795426d5d1d8e7/metadata:/metadata.json",
-    "/content/696f3e84bf795426d5d1d8e7/redirects:/redirects.json",
-    "/content/696f3e84bf795426d5d1d8e7/placeholders:/placeholders.json"
+    "/content/juarezme/wcsc-20260912-202850-flexi/language-masters/en:/",
+    "/content/juarezme/wcsc-20260912-202850-flexi/language-masters/en/:/en/",
+    "/content/juarezme/wcsc-20260912-202850-flexi/language-masters/fr/:/fr/",
+    "/content/juarezme/wcsc-20260912-202850-flexi/language-masters/fr:/fr",
+    "/content/juarezme/wcsc-20260912-202850-flexi/language-masters/es/:/es/",
+    "/content/juarezme/wcsc-20260912-202850-flexi/language-masters/es:/es",
+    "/content/juarezme/wcsc-20260912-202850-flexi/language-masters/ja/:/ja/",
+    "/content/juarezme/wcsc-20260912-202850-flexi/language-masters/ja:/ja",
+    "/content/juarezme/wcsc-20260912-202850-flexi/language-masters/de/:/de/",
+    "/content/juarezme/wcsc-20260912-202850-flexi/language-masters/de:/de",
+    "/content/juarezme/wcsc-20260912-202850-flexi/configuration:/.helix/config.json",
+    "/content/juarezme/wcsc-20260912-202850-flexi/metadata:/metadata.json",
+    "/content/juarezme/wcsc-20260912-202850-flexi/redirects:/redirects.json",
+    "/content/juarezme/wcsc-20260912-202850-flexi/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/696f3e84bf795426d5d1d8e7/",
-    "/content/dam/696f3e84bf795426d5d1d8e7/"
+    "/content/juarezme/wcsc-20260912-202850-flexi/",
+    "/content/dam/juarezme/wcsc-20260912-202850-flexi/"
   ]
 }
